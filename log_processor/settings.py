@@ -125,8 +125,8 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-AWS_ACCESS_KEY_ID = 'AKIA4FAT424FW5JZ6YNT'
-AWS_SECRET_ACCESS_KEY = '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'
+AWS_ACCESS_KEY_ID = '##'
+AWS_SECRET_ACCESS_KEY = '##'
 AWS_REGION_NAME = 'ap-south-1'
 BUCKET_NAME = "devtron-assignment"
 
